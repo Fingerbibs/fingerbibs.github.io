@@ -79,7 +79,7 @@ const paintingFilePaths = [
     'static/images/painting5.png',
     'static/images/painting6.jpg',
     'static/images/painting7.jpg',
-    'static/images/painting8.jpg',
+    'static/images/painting8.png',
     'static/images/painting9.png',
     'static/images/painting10.png',
     'static/images/painting11.png',
