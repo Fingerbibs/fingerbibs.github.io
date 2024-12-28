@@ -57,7 +57,6 @@ const paintingDescriptions = [
     "\"In the hands of Love\", digital illustration (Procreate)",
     "\"Finding it getting closer\", digital painting (Heavypaint)",
     "\"Self Portrait in Blue\", Oil Pastel",
-    "\"Fingerpainting of Party Man\", digital painting (Heavypaint)",
     "\"Haven't Much Left to See\", Oil Pastel",
     "\"Rags to Riches\", Oil Pastel & Photo Editing (Photoshop)",
     "\"Still Left Up to You\", Oil Pastel & Photo Editing (Photoshop)",
@@ -67,7 +66,8 @@ const paintingDescriptions = [
     "\"Dragging the Monkey All Around\", Oil Pastel",
     "\"Wild Combination\", Oil Pastel",
     "\"City Lights & Participants\", Oil Pastel",
-    "\"The Incessant Whirring of Its Waking Wings\", Oil Pastel"
+    "\"The Incessant Whirring of Its Waking Wings\", Oil Pastel",
+    "\"Sleeping Giant Meets Big City\", Oil Pastel"
 ];
 
 
