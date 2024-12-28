@@ -196,6 +196,11 @@ const musicVideosDescs = [
 
 function populateMusic(){
     clearContent();
+    const contentDiv = document.getElementById('content');
+    const albumInfo = document.createElement('p');
+    albumInfo.innerHTML = "My band, Arbordae, is set to release an album soon. Early access to the current version of the album can be found <span><a href = 'https://songbox.com/s/7996f389-7f3e-4191-ab11-6e4afd18fee4'>here.</a></span>"
+    albumInfo.classList.add('albumInfo');
+    contentDiv.appendChild(albumInfo);
     attachVideos(musicURLs, musicVideosDescs);
     addImages(musicFilePaths, musicDescriptions);
 }

@@ -90,3 +90,10 @@ a.nostyle:visited {
     width: 95%;
     margin-bottom:16px;
 }
+.albumInfo{
+    font-size:24px;
+    font-weight:bold;
+}
+.albumInfo span{
+    font-size:32px;
+}
